@@ -2959,9 +2959,9 @@ babel-plugin-lodash@^3.2.11:
     require-package-name "^2.0.1"
 
 babel-plugin-macros@^2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.4.2.tgz#21b1a2e82e2130403c5ff785cba6548e9b644b28"
-  integrity sha512-NBVpEWN4OQ/bHnu1fyDaAaTPAjnhXCEPqr1RwqxrU7b6tZ2hypp+zX4hlNfmVGfClD5c3Sl6Hfj5TJNF5VG5aA==
+  version "2.4.5"
+  resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.4.5.tgz#7000a9b1f72d19ceee19a5804f1d23d6daf38c13"
+  integrity sha512-+/9yteNQw3yuZ3krQUfjAeoT/f4EAdn3ELwhFfDj0rTMIaoHfIdrcLePOfIaL0qmFLpIcgPIL2Lzm58h+CGWaw==
   dependencies:
     cosmiconfig "^5.0.5"
     resolve "^1.8.1"
