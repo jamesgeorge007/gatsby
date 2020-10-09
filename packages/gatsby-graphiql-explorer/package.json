@@ -40,7 +40,7 @@
     "babel-loader": "^8.0.6",
     "babel-preset-gatsby-package": "^0.2.15",
     "cross-env": "^5.2.1",
-    "css-loader": "^1.0.1",
+    "css-loader": "^4.3.0",
     "graphiql": "^0.17.5",
     "graphiql-code-exporter": "^2.0.8",
     "graphiql-explorer": "^0.4.5",
